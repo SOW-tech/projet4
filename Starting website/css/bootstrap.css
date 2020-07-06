@@ -110,6 +110,10 @@ svg:not(:root) {
     overflow: hidden
 }
 
+span {
+    font: bold;
+}
+
 figure {
     margin: 1em 40px
 }
